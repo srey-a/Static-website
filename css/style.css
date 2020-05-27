@@ -211,7 +211,7 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(../images/portfolio1.jpg) no-repeat center;
+	background: url(../images/portfolio3.jpg) no-repeat center;
 	background-size: cover;
 	position: relative;
 }
@@ -230,8 +230,8 @@ a.scroll.bnr-btn i{
 	background-size: cover;
 	opacity: 0.9;
 	background: #1e3c72;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #2a5298, rgba(30, 60, 114, 0.59));  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #2a5298, rgba(30, 60, 114, 0.59)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: -webkit-linear-gradient(to right, #879ec5, rgba(30, 60, 114, 0.59));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #545c69, rgba(30, 60, 114, 0.59)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .bnr-w3pvt-txt h2 {
@@ -570,7 +570,7 @@ p.paragraph:after {
 
 /*-- quote --*/
 .quote{
-    background: url(../images/banner.jpg) 0px 0px;
+    background: url(../images/portfolio4.jpg) 0px 0px;
     background-size: cover;
     position: relative;
 }
@@ -586,8 +586,8 @@ p.paragraph:after {
 	background-size: cover;
 	opacity: 0.9;
 	background: #1e3c72;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #e36596, rgba(30, 60, 114, 0.59));  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #e36596, rgba(30, 60, 114, 0.59)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: -webkit-linear-gradient(to right, rgba(30, 60, 114, 0.59));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right,  rgba(30, 60, 114, 0.59)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .quote h4 {
@@ -932,7 +932,7 @@ a.move-top span{
 		top: 14%;
 		font-size: 40px;
 	}
-	.myphoto-sign {
+	.m-sign {
 		width: 40%;
 		margin-bottom: 2em;
 	}
